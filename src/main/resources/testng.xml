@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG-Suite">
+<test name="ApplicationTest" allow-return-values="true">
+
+<packages>
+<package name = "com.qa.*" />
+</packages>
+</test> 
+</suite>
